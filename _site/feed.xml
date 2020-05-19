@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hello,  I'm Jawher MANSOUR.</title>
+    <description>I'm studying for my master degree in Embedded Systems engeneering and i'm also a professional trainer and mentor in a rising technology start-up, i'm very familliar with the LoRa,Wi-Fi, GPRS technology when it comes to IoT. I'm also a motivated PCB Designer and UAV pilot from Tunisia.</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 19 May 2020 03:16:03 +0100</pubDate>
+    <lastBuildDate>Tue, 19 May 2020 03:16:03 +0100</lastBuildDate>
+    <generator>Jekyll v4.0.1</generator>
+    
+      <item>
+        <title>WiFi controlled UV Lampe </title>
+        <description>
+</description>
+        <pubDate>Wed, 15 Apr 2020 16:56:00 +0100</pubDate>
+        <link>http://localhost:4000/development/2020/04/15/UVLampe.html</link>
+        <guid isPermaLink="true">http://localhost:4000/development/2020/04/15/UVLampe.html</guid>
+        
+        <category>ESP8266</category>
+        
+        <category>HTML</category>
+        
+        <category>CSS</category>
+        
+        <category>C++</category>
+        
+        
+        <category>development</category>
+        
+      </item>
+    
+      <item>
+        <title>GPS Tracking Unit</title>
+        <description>
+</description>
+        <pubDate>Fri, 20 Mar 2020 22:15:00 +0100</pubDate>
+        <link>http://localhost:4000/embedded/system/development/2020/03/20/Tracking-Unit.html</link>
+        <guid isPermaLink="true">http://localhost:4000/embedded/system/development/2020/03/20/Tracking-Unit.html</guid>
+        
+        <category>SIM28</category>
+        
+        <category>Atmega328p</category>
+        
+        <category>SIM800</category>
+        
+        <category>Firebase</category>
+        
+        
+        <category>Embedded</category>
+        
+        <category>system</category>
+        
+        <category>development</category>
+        
+      </item>
+    
+      <item>
+        <title>LoRaWAN Temp &amp; humidity Sensor</title>
+        <description>
+</description>
+        <pubDate>Wed, 15 Jan 2020 15:15:00 +0100</pubDate>
+        <link>http://localhost:4000/development/2020/01/15/low-cost-temp-sensor.html</link>
+        <guid isPermaLink="true">http://localhost:4000/development/2020/01/15/low-cost-temp-sensor.html</guid>
+        
+        <category>LoRa-WAN</category>
+        
+        <category>DHT-11</category>
+        
+        <category>Atmega328p</category>
+        
+        <category>RFM95W</category>
+        
+        
+        <category>development</category>
+        
+      </item>
+    
+      <item>
+        <title>Real Time Face Recognition</title>
+        <description>
+</description>
+        <pubDate>Fri, 03 Jan 2020 16:56:00 +0100</pubDate>
+        <link>http://localhost:4000/development/design/2020/01/03/emotion-recognition.html</link>
+        <guid isPermaLink="true">http://localhost:4000/development/design/2020/01/03/emotion-recognition.html</guid>
+        
+        <category>Nodejs</category>
+        
+        <category>HTML</category>
+        
+        <category>Tensor_flow</category>
+        
+        
+        <category>development</category>
+        
+        <category>design</category>
+        
+      </item>
+    
+  </channel>
+</rss>

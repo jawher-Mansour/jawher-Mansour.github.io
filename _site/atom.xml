@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Hello,  I'm Jawher MANSOUR.</title>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2020-05-19T03:16:03+01:00</updated>
+ <id>http://localhost:4000</id>
+ <author>
+   <name>Jawher MANSOUR</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>WiFi controlled UV Lampe </title>
+   <link href="http://localhost:4000/development/2020/04/15/UVLampe.html"/>
+   <updated>2020-04-15T16:56:00+01:00</updated>
+   <id>http://localhost:4000/development/2020/04/15/UVLampe</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>GPS Tracking Unit</title>
+   <link href="http://localhost:4000/embedded/system/development/2020/03/20/Tracking-Unit.html"/>
+   <updated>2020-03-20T22:15:00+01:00</updated>
+   <id>http://localhost:4000/embedded/system/development/2020/03/20/Tracking-Unit</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>LoRaWAN Temp & humidity Sensor</title>
+   <link href="http://localhost:4000/development/2020/01/15/low-cost-temp-sensor.html"/>
+   <updated>2020-01-15T15:15:00+01:00</updated>
+   <id>http://localhost:4000/development/2020/01/15/low-cost-temp-sensor</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Real Time Face Recognition</title>
+   <link href="http://localhost:4000/development/design/2020/01/03/emotion-recognition.html"/>
+   <updated>2020-01-03T16:56:00+01:00</updated>
+   <id>http://localhost:4000/development/design/2020/01/03/emotion-recognition</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+
+</feed>
